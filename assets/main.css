@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Amaranth:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Amaranth:ital,wght@0,400;0,700;1,700&display=swap");
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
@@ -17,7 +17,7 @@ img { max-width: 100%; vertical-align: middle; }
 /** Figures */
 figure > img { display: block; }
 
-figcaption { font-size: 16.91px; }
+figcaption { font-size: 16.929px; }
 
 /** Lists */
 ul, ol { margin-left: 35px; }
@@ -127,7 +127,7 @@ table td { border: 1px solid #e8e8e8; }
 
 .post-list > li { margin-bottom: 35px; }
 
-.post-meta { font-size: 16.91px; color: #828282; }
+.post-meta { font-size: 16.929px; color: #828282; }
 
 .post-link { display: block; font-size: 28.5px; }
 
